@@ -10,8 +10,7 @@
 	<h1>Robot Controller</h1>
 
 	<div class="container">
-		<img src="web_images/robotcolored.png" id="imageConreller">
-
+		
 
 		<form method="POST" action="Letter.php">
 
